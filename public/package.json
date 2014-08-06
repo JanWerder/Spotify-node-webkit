@@ -6,6 +6,7 @@
   "keywords": [ "elmshorn", "node-webkit", "grunt-node-webkit-builder" ],
   "window": {
 	"icon": "logo.png",
+	"frame": false,
     "title": "Spotify",
     "toolbar": false,
     "frame": true,
