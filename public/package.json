@@ -1,0 +1,22 @@
+{
+  "name": "Spotify",
+  "description": "Spotify web player",  
+  "main": "index.html",
+  "version": "0.0.1",
+  "keywords": [ "elmshorn", "node-webkit", "grunt-node-webkit-builder" ],
+  "window": {
+    "title": "Spotify",
+    "toolbar": false,
+    "frame": true,
+    "width": 1200,
+    "height": 800,
+    "position": "mouse", 
+    "min_width": 400,
+    "min_height": 200,
+    "max_width": 1200,
+    "max_height": 800
+  },
+  "webkit": {
+    "plugin": true
+  }  
+}
